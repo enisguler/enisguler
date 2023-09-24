@@ -1,15 +1,15 @@
 Hi 👋 My name is Enis Güler
 ===========================
 
-Cyber Security | Game Development | Web Development | Graphic Design
+Dropshipping | Branding | Web Development | Graphic Design
 --------------------------------------------------------------------
 
 Hello my name is Enis Güler, i am interested in Cyber Security, Game Development, Web Development, Graphic Design since 2019.
 
-* 🌍  I'm based in Turkey | Istanbul
+* 🌍  I'm based in Turkey for now | Istanbul
 * 🖥️  See my portfolio at [Enis Guler](http://enisguler.com)
-* ✉️  You can contact me at [enishimself@gmail.com](mailto:enishimself@gmail.com)
-* 🧠  I'm learning Python and more things...
+* ✉️  You can contact me at [isversanis@gmail.com](mailto:isversanis@gmail.com)
+* 😋  I love titties and butts ...
 
 <a href="https://www.twitter.com/enishimself" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/enishimself?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/enisguler?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/enisguler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enisleader" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/enishimself" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/enisguler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enisync" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/enishimself" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
